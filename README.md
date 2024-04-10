@@ -1,4 +1,4 @@
-# Voice and Video CAll Feature Using ZEGO Cloud
+# Voice and Video Call Feature Using ZEGO Cloud
 
 ### Enables User to Make Live Streaming , Voice Calling , Video Calling , Room Interaction , Private Rooms etc
 
