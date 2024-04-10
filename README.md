@@ -2,6 +2,9 @@
 
 ### Enables User to Make Live Streaming , Voice Calling , Video Calling , Room Interaction , Private Rooms etc
 
+
+### Clone Repo -> Npm Install - > Change the Local Env Variables -> Npm Start -> live on localhost:3001
+
 # Project Introduction
 
 ### step 1
